@@ -1,0 +1,36 @@
+/* write your styles here */
+.mar{
+    background-color:red;
+    color:black;
+}
+#uni{
+    background-color:yellow;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color:#4c4c4c;
+}
+.logo{
+    
+    
+    
+}
+.logo img{
+    width:60%;
+    margin:10px;
+    margin-bottom:-2px;
+   
+}
+.main-nav{
+    
+}
+
+ul li{
+    display:inline-block;
+    margin-right:20px;
+    text-transform: capitalize;
+    font-size:20px;
+    color:rgb(202,202,202);
+    font-weight:bold;
+}
